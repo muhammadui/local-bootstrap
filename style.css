@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(to right, #4b95d1e1, #075eaf);
+  color: #ececdf;
+}
+/*  */
+p {
+  font-size: 1.2rem;
+  font-family: "Fira Code";
+  font-weight: 500;
+  color: #ececdf;
+}
+.btn {
+  font-size: 1.2rem;
+  box-shadow: 5px 5px 10px #075eaf;
+}
+
+.col1 {
+  border: 1px solid azure;
+}
+.col2 {
+  border: 1px solid cyan;
+}
